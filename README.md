@@ -1,4 +1,6 @@
-Fast-paced arcade shooter!
+# Astroblaster
+
+A fast-paced arcade shooter!
 
 Download builds for Windows and Mac at:
 [https://williamhaslet.itch.io/astroblaster](https://williamhaslet.itch.io/astroblaster)
